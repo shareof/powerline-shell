@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 
 setup(
     name="powerline-shell",
-    version="0.7.0",
+    version="1.0.0",
     description="A pretty prompt for your shell",
-    author="Buck Ryan",
-    author_email="buck@buckryan.com",
+    author="shareof",
+    author_email="shareof@test.com",
     license="MIT",
-    url="https://github.com/b-ryan/powerline-shell",
+    url="https://github.com/shareof/powerline-shell",
     classifiers=[
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 2.7",
